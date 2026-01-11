@@ -14,7 +14,7 @@ I am deeply interested in **DevOps, Site Reliability Engineering (SRE), and Comp
 - ⚙️ Strong interest in **DevOps, SRE, and Infrastructure Engineering**
 - 🌐 Solid foundation in **Computer Networking & Linux System Administration**
 - 🧪 Hands-on experience with **VirtualBox-based client–server lab environments**
-- 🏸 Former **school badminton team captain**, winner of **All-Island U17 & U19 Championships**
+
 
 ## 🌱 Currently Exploring
 
