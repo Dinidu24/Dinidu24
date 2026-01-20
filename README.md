@@ -33,7 +33,7 @@ I am deeply interested in **DevOps, Site Reliability Engineering (SRE), and Comp
 
 ## 🏆 Achievements
 
-- 🏅 Best project award in 1st compsynp organized by IEEE @Sliit (2025)
+- 🏅 Best project award in 1st compsymp organized by IEEE @Sliit (2025)
 - 🏅 Merit award winner at NETCOM-networking competition organized by Sliit (2024)
 - 🛠️ Developed an **IoT-based Smart Fertilizer System** for automated agriculture
 - ✅ Completed multiple **advanced networking and system administration labs**
